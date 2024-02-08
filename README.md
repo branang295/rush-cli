@@ -15,14 +15,14 @@
 ### Windows
 In PowerShell, run:
 ```ps1
-iwr https://raw.githubusercontent.com/anbran223/rush-cli/main/scripts/install/install.ps1 -useb | iex
+iwr https://raw.githubusercontent.com/branang295/rush-cli/main/scripts/install/install.ps1 -useb | iex
 ```
 
 ### Linux and macOS
 1. In the terminal, run:
 
     ```sh
-    curl https://raw.githubusercontent.com/anbran223/rush-cli/main/scripts/install/install.sh -fsSL | sh
+    curl https://raw.githubusercontent.com/branang295/rush-cli/main/scripts/install/install.sh -fsSL | sh
     ```
 
 2. Add `$HOME/.rush/bin` to the `PATH` environment variable.
